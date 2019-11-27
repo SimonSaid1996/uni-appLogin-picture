@@ -1,0 +1,11 @@
+
+.tag-img {
+	border-radius: 60rpx;
+	width: 120rpx;
+	height: 120rpx;
+}
+.tag-text {
+	font-size: 28rpx;
+	color: #555555;
+}
+
